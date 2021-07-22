@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/louiskueh/)](https://www.linkedin.com/in/maria-pantsiou/)
 [![GitHub followers](https://img.shields.io/github/followers/punchyou.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/louiskueh?tab=followers)
 
-![background](maria.jpg)
+![background](https://raw.githubusercontent.com/Punchyou/punchyou/master/maria.JPG)
 
 Software Engineering | Data Science
 
