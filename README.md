@@ -8,8 +8,9 @@
 
 Software Engineering | Data Science
 
-- 🌱 I am currently learing deep learning techniques @Coursera from Andrew Ng
-- 🔭 I’m working on data science/predictive modeling projects, as well as infrastructure projects with AWS Cloud Services @ARM
+- 🌱 I am currently on a deep-learing learning journey
+- 🔭 Up until recently I was working on data science/predictive modeling projects, as well as infrastructure projects with AWS Cloud Services @ARM
+- 🔭 I started a new exciting job as a data scientist @ Khyria
 - 👯 I am looking to collaborate on space exploration projects
 - 🤔 I want to work remotely from Greece one day
 - ⚛️ I love physics
