@@ -8,11 +8,11 @@
 
 Software Engineering | Data Science
 
-- 🌱 I am currently on a deep-learing learning journey
 - 🤔 Up until recently I was working on data science/predictive modeling projects, as well as infrastructure projects with AWS Cloud Services @ARM
-- 🔭 I started a new exciting job as a data scientist @ Khyria
+- 🔭 I recently started a new exciting job! I will be working with data and the tech product of Khyria, an awesome start-up that focuses on women's health!
 - 👯 I am looking to collaborate on space exploration projects
 - ⚛️ I love popular physics
+- 🌱 I try to be eco friendly
 - 🏛 I am a Greek girl in the UK
 
 
