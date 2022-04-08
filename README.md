@@ -8,12 +8,12 @@
 
 Software Engineering | Data Science
 
-- 🤔 Up until recently I was working on data science/predictive modeling projects, as well as infrastructure projects with AWS Cloud Services @ARM
-- 🔭 I recently started a new exciting job! I will be working with data and the tech product of Khyria, an awesome start-up that focuses on women's health!
-- 👯 I am looking to collaborate on space exploration projects
-- ⚛️ I love popular physics
-- 🌱 I try to be eco friendly
-- 🏛 I am a Greek girl in the UK
+- 🔭 I am working with data and the tech product implementation of Khyria, an awesome start-up that focuses on women's health!
+- 👯 I am looking to collaborate on enviromental protection projects.
+- ⚛️ I love popular physics!
+- 🤿 I am (almost) an open water diver!
+- 🌱 I try to be eco friendly!
+- 🏛 I am a Greek girl in the UK!
 
 
 # Stats
