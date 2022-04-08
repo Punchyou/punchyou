@@ -12,7 +12,7 @@ Software Engineering | Data Science
 - 👯 I am looking to collaborate on enviromental protection projects.
 - ⚛️ I love popular physics!
 - 🤿 I am (almost) an open water diver!
-- 🌱 I try to be eco friendly!
+- 🌱 I currently learn how to be eco friendly!
 - 🏛 I am a Greek girl in the UK!
 
 
