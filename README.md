@@ -11,13 +11,15 @@ Software Engineering | Data Science
 - 🔭 I am working with data and the tech product implementation of Khyria, an awesome start-up that focuses on women's health!
 - 🥾 I am currently learning NestJS to help at Khyria's backend development!
 - 👯 I am looking to collaborate on enviromental protection projects.
-- ⚛️ I love popular physics!
+- ⚛️ I like to learn things around popular physics, climate change, the LGBTQ+ community!
 - 🤿 I do scuba diving!
 - 🎩 I like gaming!
 - 🌱 I currently learn how to be more eco friendly!
 - 🏛 I am a Greek girl in the UK!
+- 🎵 I was a musician once!
+- 👒 I was a teacher once!
 
-My nest emojis will be: 🧣🧤👒🧦
+My next emojis will be: 🧤🧦🧣
 
 # Stats
 
