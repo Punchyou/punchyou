@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-[![Generic badge](https://img.shields.io/website?label=https://punchyou.github.io/&style=flat-square&url=https://punchyou.github.io)](https://punchyou.github.io/)
 [![GitHub followers](https://img.shields.io/github/followers/punchyou.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/louiskueh?tab=followers)
 
 <img src="https://raw.githubusercontent.com/Punchyou/punchyou/master/maria.JPG" alt="drawing" width="400"/>
 
-Software Engineering | Data Science
+Platform Engineer in Data and ML Teams
 
 - 🔭 I am working as a Platform Engineer in the awesome Data and Machine Learning Platform Teams of TUI Musement!
 - 🥾 I am currently working on productionizing RAG applications!
