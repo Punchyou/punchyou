@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/punchyou.svg?style=social&label=Follow&maxAge=2592000)]
+![GitHub followers](https://img.shields.io/github/followers/punchyou.svg?style=social&label=Follow&maxAge=2592000)
 ![Linkedin](https://www.linkedin.com/in/maria-pantsiou/)
 
 Platform Engineer in Data and ML Teams
