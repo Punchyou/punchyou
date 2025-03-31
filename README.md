@@ -6,12 +6,13 @@
 Platform Engineer in Data and ML Teams
 
 - 🔭 I am working as a Platform Engineer in the awesome Data and Machine Learning Platform Teams of TUI Musement!
-- 🥾 I am currently working on productionizing RAG applications!
+- 🥾 I am currently working on productionizing ML/AI apps and more!
 - 👯 I am looking to collaborate on enviromental protection projects.
 - ⚛️ I like to learn things around popular physics, climate change, LGBTQ+ community and more!
 - 🤿 I do scuba diving!
 - 🎩 I like gaming!
 - 🌱 I currently learn how to be more eco friendly!
+- 👯 I am a new mom
 - 🏛 I live in Greece!
 - 🎵 I was a musician once!
 - 👒 I was a teacher once!
